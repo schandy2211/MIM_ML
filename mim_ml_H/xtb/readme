@@ -6,6 +6,3 @@ obabel -ipdb 1js7_min.pdb -oxyz -O 1js7_min.xyz
 for file in *.xyz; do
     sed -i '$a$write\ngbsa=true ' "$file"
 done
-
-for i in *.xyz; do submitxtb -k $i; done
-
