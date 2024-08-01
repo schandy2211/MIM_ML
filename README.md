@@ -11,4 +11,4 @@ MIM-ML is a random forest machine learning (ML) model for the prediction of 1H a
 - scikit-learn
 
 # Cite as 
-Chandy, S. K.; Raghavachari, K. MIM-ML: A Novel Quantum Chemical Fragment-Based Random Forest Model for Accurate Prediction of NMR Chemical Shifts of Nucleic Acids. Journal of Chemical Theory and Computation 2023, 19 (19), 6632-6642. 
+[Chandy, S. K.; Raghavachari, K. MIM-ML: A Novel Quantum Chemical Fragment-Based Random Forest Model for Accurate Prediction of NMR Chemical Shifts of Nucleic Acids. Journal of Chemical Theory and Computation 2023, 19 (19), 6632-6642.](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00563)
